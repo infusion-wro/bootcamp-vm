@@ -5,7 +5,7 @@ Vagrantfile for setting up a VM with the following specs:
 - build-essential, git, vim, curl
 - JDK8
 - Node.js 4.3.0 (using [nvm](https://github.com/creationix/nvm))
-- Go 1.5.3 (using [gvm](https://github.com/moovweb/gvm))
+- Go 1.6 (using [gvm](https://github.com/moovweb/gvm))
 - [Atom](https://atom.io/) editor
 - [Burp](https://portswigger.net/burp/)
 
