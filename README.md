@@ -15,6 +15,6 @@ Vagrantfile for setting up a VM with the following specs:
 0. Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
     - This is optional however if missing vagrant will install during first run.
 1. Install [vagrant](https://www.vagrantup.com/downloads.html)
-2. Clone this repository or simply download the [Vagrantfile](https://raw.githubusercontent.com/weeniearms/bootcamp-vm/master/Vagrantfile)
+2. Clone this repository or simply download the [Vagrantfile](https://raw.githubusercontent.com/infusion-wro/bootcamp-vm/master/Vagrantfile)
 3. Open your favorite shell and cd into the directory with the Vagrantfile
 4. Run `vagrant up`
