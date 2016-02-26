@@ -51,5 +51,13 @@ Vagrant.configure(2) do |config|
     gvm install go1.6
     gvm use go1.6 --default
 	go get -u github.com/nathany/looper
+	
+	# clone bootcamp tasks
+	git clone https://github.com/infusion-wro/bootcamp-fibonacci.git
+	git clone https://github.com/infusion-wro/bootcamp-ladder.git
+	git clone https://github.com/infusion-wro/bootcamp-sqrt.git
+	git clone https://github.com/infusion-wro/bootcamp-game-of-life.git
+	git clone https://github.com/infusion-wro/bootcamp-golang.git
+	git clone https://github.com/infusion-wro/bootcamp-simple-express-server.git
   SHELL
 end
